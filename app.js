@@ -1,7 +1,7 @@
 const nilai = 75;
 
 if (nilai >= 75) {
-    console.log("Lulus");
+    console.log("Selamat, Anda Lulus");
 } else {
-    console.log("Tidak Lulus"); 
+    console.log("Mohon Maaf, Tidak Lulus"); 
 }
